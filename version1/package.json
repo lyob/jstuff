@@ -1,0 +1,24 @@
+{
+  "name": "jstuff",
+  "version": "1.0.0",
+  "description": "test dir for js and node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyob/jstuff.git"
+  },
+  "author": "ben lyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyob/jstuff/issues"
+  },
+  "homepage": "https://github.com/lyob/jstuff#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
